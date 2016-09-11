@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="gradleHome" value="C:\Users\user\Documents\Apps\gradle-2.13" />
+    <option name="linkedProjectPath" value="$USER_HOME$/IdeaProjects/kafka/build.gradle" />
+    <option name="preferLocalInstallationToWrapper" value="true" />
+    <option name="serviceDirectoryPath" value="C:\Users\user\.gradle" />
+  </component>
+</project>
+
